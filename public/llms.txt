@@ -1,0 +1,22 @@
+# Jitendra Mehra
+
+Jitendra Mehra is a developer focused on learning, building, and improving his ability to create useful software.
+
+## Current focus
+- Full-stack web development
+- Backend development with Django
+- Building real-world projects
+- Understanding how frontend and backend systems work together
+- Learning through practical implementation
+
+## Direction
+Current: full-stack development → backend engineering with Django → real-world software projects.
+Future interest: software engineering foundations, then AI and machine learning.
+
+## Current stage
+Jitendra is in a learning and building phase and is not presenting himself as actively job-seeking. Projects, education, employment history, and certifications have not been provided.
+
+## Profiles
+- GitHub: https://github.com/Jitendramehra07
+- X: https://x.com/Jitendra9363
+- LinkedIn: Jitendra Mehra (profile URL not supplied)

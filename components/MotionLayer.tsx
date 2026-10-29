@@ -1,0 +1,3 @@
+"use client";
+import {useEffect} from "react";
+export default function MotionLayer(){useEffect(()=>{const nodes=Array.from(document.querySelectorAll<HTMLElement>(".section,.hero-image,.path-row"));if(window.matchMedia("(prefers-reduced-motion: reduce)").matches)return;document.documentElement.classList.add("motion-ready");const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add("is-visible");observer.unobserve(entry.target);}}),{threshold:.12});nodes.forEach(n=>observer.observe(n));return()=>observer.disconnect();},[]);return null;}
